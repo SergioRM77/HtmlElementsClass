@@ -104,6 +104,7 @@ final class HTMLElementClassTest extends TestCase{
        //$this->expectExceptionMessage("Tag incorrecto");  
 
   // }
+  /*
     public function testCreateHtml5(){
        $classTag3 = new ITEC\Presencial\DAW\HTMLElementClass\HTMLElement("div",[],[],false);
        $classTag3->addAttribute("id", "divid");
@@ -112,7 +113,7 @@ final class HTMLElementClassTest extends TestCase{
        $classTag3->removeAttribute('id="divid"');
        $resultado3 = $classTag3->getHtml();
        echo $classTag3->createHtml5();
-    }
+    }*/
    
 
 }
